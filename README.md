@@ -1,5 +1,5 @@
-# 5-Star cheetsheet for Machine Learning in Production
+## Machine Learning Engineering for Production
 
-## MLops1 class
+Welcome to the public repo for [deeplearning.ai](https://www.deeplearning.ai/)'s Machine Learning Engineering for Production Specialization.
 
-## MLops2 class
+Here you will find public resources for the courses of this specialization.
